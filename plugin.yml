@@ -1,0 +1,13 @@
+name: TrailEffects
+version: 0.0.4
+main: wa.was.traileffects.TrailEffects
+permissions:
+  traile.allow:
+    description: Allows player to leave block and particle trails
+    default: false
+  traile.allow.particles:
+    description: Allows player to leave particle trails
+    default: false
+  traile.allow.blocks:
+    description: Allows player to leave block trails
+    default: false
